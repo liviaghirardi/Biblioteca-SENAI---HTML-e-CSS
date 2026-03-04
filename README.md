@@ -29,14 +29,6 @@
 
     - Flexbox
 
-📂 Estrutura do Projeto
-📁 projeto-biblioteca-senai
- ├── index.html
- ├── index.css
- └── 📁 imagens
-      ├── SENAI_Sao_Paulo_logo.png
-      └── biblioteca_senai.jpeg
-
 🎯 Funcionalidades
   
   - Layout organizado e responsivo
